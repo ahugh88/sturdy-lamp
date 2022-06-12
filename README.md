@@ -1,2 +1,3 @@
-# sturdy-lamp
+# solidity
+
 Blockchain Voting machine
